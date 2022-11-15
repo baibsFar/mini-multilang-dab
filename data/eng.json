@@ -1,0 +1,6 @@
+{
+  "amount_choice_phrase": "Choose your amount",
+  "inappropriate_option": "Inappropriate option. Choose --balanced or --minimum instead.",
+  "amount": "AMOUNT",
+  "choose_amount": "Between"
+}
